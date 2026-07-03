@@ -1,0 +1,11 @@
+opencv-python
+sys
+pytorch
+numpy
+pyautogui
+subprocess
+pillow
+ollama
+requests
+tkinter
+ctypes
